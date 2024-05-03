@@ -1,6 +1,6 @@
-owner = UCA
+owner = USA
 
-controller = UCA
+controller = USA
 
 add_core = UCA
 add_core = GUA

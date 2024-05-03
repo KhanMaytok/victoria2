@@ -1,6 +1,6 @@
-owner = MEX
+owner = USA
 
-controller = MEX
+controller = USA
 
 add_core = MEX
 terrain = new_world_semidesert
