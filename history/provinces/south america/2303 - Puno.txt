@@ -1,6 +1,6 @@
-owner = SPU
-controller = SPU
-add_core = SPU
+owner = BLL
+controller = BLL
+add_core = BLL
 add_core = PEU
 trade_goods = iron
 life_rating = 35

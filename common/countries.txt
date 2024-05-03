@@ -519,6 +519,7 @@ UCA        ="countries/United States of Central America.txt"
 
 # South America
 ARG        ="countries/Argentina.txt"
+BLL        ="countries/Bhalla.txt"
 BOL        ="countries/Bolivia.txt"
 BRZ        ="countries/Brazil.txt"
 CHL        ="countries/Chile.txt"
@@ -527,6 +528,7 @@ ECU        ="countries/Ecuador.txt"
 PEU        ="countries/Peru.txt"
 PRG        ="countries/Paraguay.txt"
 URU        ="countries/Uruguay.txt"
+UTT        ="countries/Uttar.txt" 
 VNZ        ="countries/Venezuela.txt"
 
 # Australasia

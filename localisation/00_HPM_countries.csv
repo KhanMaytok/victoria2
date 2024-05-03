@@ -1088,7 +1088,7 @@ FIU_ADJ;Fiumani;Fiumani;Fiumani;;;;;;;;;;;
 FIU_fascist_dictatorship;Carnaro;;;;;;;;;;;;;
 FIU_bourgeois_dictatorship;Carnaro;;;;;;;;;;;;;
 FIU_presidential_dictatorship;Carnaro;;;;;;;;;;;;;
-FIU_democracy;Free State of Fiume;êtat libre de Fiume;Freistaat Fiume;;;;;;;;;;;
+FIU_democracy;Free State of Fiume;ùtat libre de Fiume;Freistaat Fiume;;;;;;;;;;;
 FIU_liberal;Partito Liberale;Partito Liberale;Partito Liberale;;;;;;;;;;;
 FIU_conservative;Partito Autonomo;Partito Autonomo;Partito Autonomo;;;;;;;;;;;
 FIU_reactionary;Nazionalisti;Nazionalisti;Nazionalisti;;;;;;;;;;;
@@ -3223,3 +3223,7 @@ TIG_socialist;Tigrayan People's Liberation Front;Front de libÈration du Tigrayie
 TIG_communist;Tigrayan Communist Party;Tigrayienne Parti communiste;Tigrayan Kommunistischen Partei;;;;;;;;;;;
 TIG_fascist;Fascist Faction;Faction fasciste;Die faschistische Fraktion;;;;;;;;;;;
 UTI_ADJ;Territories Exchange;;;;;;;;;;;;;
+UTT_ADJ;Mahendrian;;;;;;;;;;;;;
+UTT;Mahendra;;;;;;;;;;;;;
+BLL_ADJ;Bhallian;;;;;;;;;;;;;
+BLL;Bhalla;;;;;;;;;;;;;

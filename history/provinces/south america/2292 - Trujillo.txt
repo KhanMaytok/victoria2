@@ -1,6 +1,16 @@
-owner = PEU
-controller = PEU
+owner = UTT
+controller = UTT
+add_core = UTT
 add_core = PEU
 trade_goods = grain
 terrain = dryhills
-life_rating = 35
+life_rating = 45
+fort = 1
+party_loyalty = {
+    ideology = liberal
+    loyalty_value = 20
+}
+party_loyalty = {
+    ideology = conservative
+    loyalty_value = 5
+}
