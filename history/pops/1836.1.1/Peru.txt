@@ -1301,59 +1301,226 @@
 #Puno (104000/26000 POPS)
 2303 = {
     aristocrats = {
-        culture = south_andean
-        religion = catholic
-        size = 575
+        culture = turkish
+        religion = sunni
+        size = 750
+    }
+
+    bureaucrats = {
+        culture = turkish
+        religion = sunni
+        size = 700
+    }
+
+    officers = {
+        culture = turkish
+        religion = sunni
+        size = 150
     }
 
     clergymen = {
-        culture = south_andean
-        religion = catholic
-        size = 150
+        culture = turkish
+        religion = sunni
+        size = 1125
     }
 
     artisans = {
-        culture = south_andean
-        religion = catholic
-        size = 150
+        culture = turkish
+        religion = sunni
+        size = 10000
     }
 
     soldiers = {
-        culture = south_andean
+        culture = turkish
+        religion = sunni
+        size = 6000
+    }
+
+    farmers = {
+        culture = turkish
+        religion = sunni
+        size = 43675
+    }
+
+    farmers = {
+        culture = circassian
+        religion = sunni
+        size = 100
+    }
+
+    aristocrats = {
+        culture = greek
+        religion = orthodox
+        size = 120
+    }
+
+    officers = {
+        culture = greek
+        religion = orthodox
+        size = 120
+    }
+
+    soldiers = {
+        culture = greek
+        religion = orthodox
+        size = 300
+    }
+
+    clergymen = {
+        culture = greek
+        religion = orthodox
+        size = 550
+    }
+
+    artisans = {
+        culture = greek
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = greek
+        religion = orthodox
+        size = 20900
+    }
+    aristocrats = {
+        culture = bulgarian
+        religion = orthodox
+        size = 120
+    }
+
+    officers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 120
+    }
+
+    soldiers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 120
+    }
+
+    clergymen = {
+        culture = bulgarian
+        religion = orthodox
+        size = 120
+    }
+
+    artisans = {
+        culture = bulgarian
+        religion = orthodox
+        size = 5000
+    }
+
+    farmers = {
+        culture = bulgarian
+        religion = orthodox
+        size = 475
+    }
+    aristocrats = {
+        culture = armenian
+        religion = coptic
+        size = 120
+    }
+
+    officers = {
+        culture = armenian
+        religion = coptic
+        size = 120
+    }
+
+    soldiers = {
+        culture = armenian
+        religion = coptic
+        size = 300
+    }
+
+    clergymen = {
+        culture = armenian
+        religion = coptic
+        size = 225
+    }
+
+    artisans = {
+        culture = armenian
+        religion = coptic
+        size = 5000
+    }
+
+    farmers = {
+        culture = armenian
+        religion = coptic
+        size = 22775
+    }
+
+    clergymen = {
+        culture = sephardic
+        religion = jewish
+        size = 100
+    }
+
+    soldiers = {
+        culture = sephardic
+        religion = jewish
+        size = 600
+    }
+
+    artisans = {
+        culture = sephardic
+        religion = jewish
+        size = 1025
+    }
+
+    farmers = {
+        culture = sephardic
+        religion = jewish
+        size = 8300
+    }
+
+    clergymen = {
+        culture = north_italian
         religion = catholic
         size = 100
     }
 
-    farmers = {
-        culture = south_andean
-        religion = catholic
-        size = 2025
-    }
-
-    clergymen = {
-        culture = aimara
-        religion = catholic
-        size = 100
-    }
-
     artisans = {
-        culture = aimara
+        culture = north_italian
         religion = catholic
-        size = 1150
+        size = 775
     }
 
     soldiers = {
-        culture = aimara
+        culture = north_italian
         religion = catholic
-        size = 250
+        size = 200
     }
 
     farmers = {
-        culture = aimara
+        culture = north_italian
         religion = catholic
-        size = 21500
+        size = 1000
+    }
+
+    slaves = {
+        culture = greek
+        religion = orthodox
+        size = 500
+    }
+
+    slaves = {
+        culture = circassian
+        religion = orthodox
+        size = 500
+    }
+
+    slaves = {
+        culture = forest_bantu #african_minor
+        religion = animist
+        size = 3500
     }
 }
+
 #Arequipa (72000/18000 POPS)
 2304 = {
     aristocrats = {
