@@ -398,89 +398,187 @@
 #Trujillo (68000/17000 POPS)
 2292 = {
     aristocrats = {
-        culture = south_andean
-        religion = catholic
-        size = 375
+        culture = british
+        religion = protestant
+        size = 5500
+    }
+
+    officers = {
+        culture = british
+        religion = protestant
+        size = 2500
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 18000
     }
 
     clergymen = {
-        culture = south_andean
-        religion = catholic
-        size = 125
+        culture = british
+        religion = protestant
+        size = 18250
+    }
+
+    capitalists = {
+        culture = british
+        religion = protestant
+        size = 2500
+    }
+
+    clerks = {
+        culture = british
+        religion = protestant
+        size = 12000
+    }
+
+    craftsmen = {
+        culture = british
+        religion = protestant
+        size = 116000
     }
 
     artisans = {
-        culture = south_andean
-        religion = catholic
-        size = 300
-    }
-
-    soldiers = {
-        culture = south_andean
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = south_andean
-        religion = catholic
-        size = 5050
-    }
-
-    clergymen = {
-        culture = quechua
-        religion = catholic
-        size = 100
+        culture = british
+        religion = protestant
+        size = 10000
     }
 
     artisans = {
-        culture = quechua
-        religion = catholic
-        size = 450
-    }
-
-    soldiers = {
-        culture = quechua
-        religion = catholic
-        size = 100
-    }
-
-    farmers = {
-        culture = quechua
-        religion = catholic
-        size = 8350
-    }
-
-    clergymen = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 100
+        culture = british
+        religion = protestant
+        size = 10000
     }
 
     artisans = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 100
+        culture = british
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 10000
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 9500
     }
 
     soldiers = {
-        culture = afro_caribeno
-        religion = catholic
-        size = 100
+        culture = british
+        religion = protestant
+        size = 40000
     }
 
     farmers = {
-        culture = afro_caribeno
+        culture = british
+        religion = protestant
+        size = 127000
+    }
+
+    artisans = {
+        culture = british
         religion = catholic
-        size = 1100
+        size = 8000
     }
 
     slaves = {
-        culture = afro_caribeno
+        culture = british
         religion = catholic
-        size = 600
+        size = 17000
     }
+
+    clerks = {
+        culture = british
+        religion = jewish
+        size = 100
+    }
+
+    craftsmen = {
+        culture = british
+        religion = jewish
+        size = 1500
+    }
+
+    artisans = {
+        culture = british
+        religion = jewish
+        size = 3400
+    }
+
+    craftsmen = {
+        culture = irish
+        religion = catholic
+        size = 4000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 10000
+    }
+
+    artisans = {
+        culture = irish
+        religion = catholic
+        size = 2000
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 1050
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 900
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 300
+    }
+
+    farmers = {
+        culture = spanish
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = bengali
+        religion = hindu
+        size = 100
+    }
+
+    farmers = {
+        culture = yue
+        religion = mahayana
+        size = 100
+    }
+
 }
+
 #Moyobamba (24000/6000 POPS)
 2294 = {
     aristocrats = {
