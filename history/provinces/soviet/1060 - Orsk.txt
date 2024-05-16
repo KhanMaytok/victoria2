@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z60
+controller = Z60
 add_core = RUS
 trade_goods = wool
 life_rating = 35

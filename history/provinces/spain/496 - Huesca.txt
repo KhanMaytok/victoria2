@@ -1,11 +1,11 @@
-owner = SPC
-controller = SPC
+owner = Z05
+controller = Z05
 add_core = SPA
 add_core = SPC
 trade_goods = wool
 life_rating = 35
 1836.1.2 = {
-	owner = SPA
-	controller = SPA
+	owner = Z23
+	controller = Z23
 	remove_core = SPC
 }

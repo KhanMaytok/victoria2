@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = Z15
+controller = Z15
 add_core = ENG
 add_core = SCO
 trade_goods = wool

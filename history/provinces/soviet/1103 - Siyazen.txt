@@ -5,7 +5,7 @@ add_core = AZB
 trade_goods = fruit
 life_rating = 35
 1913.1.1 = {
-owner = RUS
-controller = RUS
+owner = Z90
+controller = Z90
 add_core = RUS
 }

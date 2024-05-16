@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z68
+controller = Z68
 add_core = UBD
 add_core = LAT
 trade_goods = grain

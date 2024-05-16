@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z47
+controller = Z47
 add_core = RUS
 trade_goods = fish
 life_rating = 35

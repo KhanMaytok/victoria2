@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = Z05
+controller = Z05
 add_core = POR
 trade_goods = timber
 life_rating = 35

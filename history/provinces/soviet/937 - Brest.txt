@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z95
+controller = Z95
 add_core = RUS
 add_core = POL
 add_core = BYE

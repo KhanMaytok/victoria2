@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = Z27
+controller = Z27
 add_core = EGY
 add_core = SUD
 trade_goods = cattle

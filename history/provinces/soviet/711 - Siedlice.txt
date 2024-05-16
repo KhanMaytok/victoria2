@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z86
+controller = Z86
 add_core = POL
 trade_goods = cattle
 life_rating = 35

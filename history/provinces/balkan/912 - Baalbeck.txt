@@ -6,8 +6,8 @@ add_core = SYR
 trade_goods = timber
 life_rating = 35
 1913.1.1 = {
-owner = TUR
-controller = TUR
+owner = Z06
+controller = Z06
 remove_core = EGY
 colonial = 0
 }

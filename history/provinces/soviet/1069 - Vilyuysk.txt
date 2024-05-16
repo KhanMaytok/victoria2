@@ -4,7 +4,7 @@ add_core = TKM
 trade_goods = timber
 life_rating = 35
 1913.1.1 = {
-	owner = RUS
-	controller = RUS
+	owner = Z69
+	controller = Z69
 	add_core = RUS
 }

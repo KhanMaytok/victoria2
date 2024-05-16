@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z87
+controller = Z87
 add_core = TUR
 add_core = ARM
 add_core = KDS
@@ -7,6 +7,6 @@ trade_goods = iron
 life_rating = 35
 terrain = mountain_mine
 1913.1.1 = {
-owner = TUR
-controller = TUR
+owner = Z87
+controller = Z87
 }

@@ -6,8 +6,8 @@ add_core = SYR
 trade_goods = fruit
 life_rating = 35
 1913.1.1 = {
-owner = TUR
-controller = TUR
+owner = Z05
+controller = Z05
 remove_core = EGY
 colonial = 0
 }

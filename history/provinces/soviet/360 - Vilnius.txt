@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z72
+controller = Z72
 add_core = LIT
 #add_core = POL
 trade_goods = grain

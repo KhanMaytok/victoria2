@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = Z29
+controller = Z29
 add_core = EGY
 add_core = SUD
 add_core = SHK

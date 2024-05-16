@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z48
+controller = Z48
 add_core = RUS
 add_core = CIR
 trade_goods = fish

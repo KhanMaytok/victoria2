@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = Z03
+controller = Z03
 add_core = SPA
 add_core = SPC
 trade_goods = fish

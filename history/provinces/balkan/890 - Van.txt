@@ -8,8 +8,8 @@ trade_goods = iron
 life_rating = 35
 terrain = mountain_mine
 1836.1.2 = {
-	owner = TUR
-	controller = TUR
+	owner = Z89
+	controller = Z89
 	colonial = 0
 }
 1913.1.1 = {

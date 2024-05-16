@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z37
+controller = Z37
 add_core = TUR
 add_core = GRE
 add_core = BUL

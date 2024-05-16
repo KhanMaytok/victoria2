@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = Z34
+controller = Z34
 add_core = EGY
 add_core = SUD
 trade_goods = wool

@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = Z11
+controller = Z11
 add_core = ENG
 add_core = IRE
 trade_goods = grain

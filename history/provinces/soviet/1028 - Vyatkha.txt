@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z28
+controller = Z28
 add_core = RUS
 trade_goods = grain
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z70
+controller = Z70
 add_core = TUR
 trade_goods = dye
 life_rating = 35

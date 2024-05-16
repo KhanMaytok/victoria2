@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = Z27
+controller = Z27
 add_core = FRA
 trade_goods = grain
 life_rating = 35

@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = Z35
+controller = Z35
 add_core = ENG
 trade_goods = coal
 life_rating = 35

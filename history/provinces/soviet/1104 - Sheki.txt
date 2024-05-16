@@ -6,7 +6,7 @@ trade_goods = grain
 life_rating = 35
 terrain = steppe_mine
 1913.1.1 = {
-owner = RUS
-controller = RUS
+owner = Z91
+controller = Z91
 add_core = RUS
 }

@@ -5,6 +5,6 @@ add_core = UBD
 trade_goods = cattle
 life_rating = 35
 1913.1.1 = {
-	owner = RUS
-	controller = RUS
+	owner = Z64
+	controller = Z64
 }

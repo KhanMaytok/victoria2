@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = Z11
+controller = Z11
 add_core = EGY
 trade_goods = wool
 life_rating = 35

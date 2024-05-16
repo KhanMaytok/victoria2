@@ -1,5 +1,5 @@
-owner = POR
-controller = POR
+owner = Z06
+controller = Z06
 add_core = POR
 trade_goods = grain
 life_rating = 35

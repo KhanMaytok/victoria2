@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z64
+controller = Z64
 add_core = TUR
 trade_goods = fish
 life_rating = 35

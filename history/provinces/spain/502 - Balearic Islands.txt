@@ -1,5 +1,5 @@
-owner = SPA
-controller = SPA
+owner = Z29
+controller = Z29
 add_core = SPA
 add_core = SPC
 add_core = CAT

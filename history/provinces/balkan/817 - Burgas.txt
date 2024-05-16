@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z31
+controller = Z31
 add_core = TUR
 add_core = BUL
 trade_goods = fish

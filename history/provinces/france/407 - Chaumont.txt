@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = Z10
+controller = Z10
 add_core = FRA
 trade_goods = iron
 life_rating = 31

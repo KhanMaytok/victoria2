@@ -1,5 +1,5 @@
-owner = EGY
-controller = EGY
+owner = Z08
+controller = Z08
 add_core = EGY
 trade_goods = fish
 life_rating = 35

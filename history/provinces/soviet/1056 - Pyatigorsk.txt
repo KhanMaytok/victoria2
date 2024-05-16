@@ -4,8 +4,8 @@ add_core = CIR
 trade_goods = wool
 life_rating = 35
 1913.1.1 = {
-owner = RUS
-controller = RUS
+owner = Z56
+controller = Z56
 add_core = RUS
 colonial = 0
 }

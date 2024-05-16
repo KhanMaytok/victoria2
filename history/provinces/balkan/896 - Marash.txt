@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z95
+controller = Z95
 add_core = TUR
 trade_goods = wool
 life_rating = 35

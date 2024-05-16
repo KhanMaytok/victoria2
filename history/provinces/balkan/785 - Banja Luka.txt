@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z08
+controller = Z08
 add_core = TUR
 add_core = BOS
 add_core = YUG

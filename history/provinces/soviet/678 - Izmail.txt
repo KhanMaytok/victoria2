@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z80
+controller = Z80
 add_core = MOL
 add_core = ROM
 trade_goods = fish

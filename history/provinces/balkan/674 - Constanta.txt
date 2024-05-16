@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z04
+controller = Z04
 add_core = TUR
 add_core = WAL
 add_core = ROM

@@ -1,13 +1,13 @@
-owner = SPC
-controller = SPC
+owner = Z07
+controller = Z07
 add_core = SPA
 add_core = SPC
 add_core = CAT
 trade_goods = fruit
 life_rating = 40
 1836.1.2 = {
-	owner = SPA
-	controller = SPA
+	owner = Z25
+	controller = Z25
 	remove_core = SPC
 }
 1913.1.1 = {

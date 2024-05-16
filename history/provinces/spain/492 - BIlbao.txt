@@ -1,5 +1,5 @@
-owner = SPC
-controller = SPC
+owner = Z01
+controller = Z01
 add_core = SPA
 add_core = SPC
 trade_goods = iron
@@ -7,8 +7,8 @@ life_rating = 35
 naval_base = 1
 terrain = woods_mine
 1836.1.2 = {
-	owner = SPA
-	controller = SPA
+	owner = Z19
+	controller = Z19
 	remove_core = SPC
 }
 1913.1.1 = {

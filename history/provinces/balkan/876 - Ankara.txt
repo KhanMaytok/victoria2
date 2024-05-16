@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z75
+controller = Z75
 add_core = TUR
 trade_goods = fruit
 life_rating = 35

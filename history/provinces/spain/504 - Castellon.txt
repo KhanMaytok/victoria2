@@ -5,7 +5,7 @@ add_core = SPC
 trade_goods = fruit
 life_rating = 35
 1836.1.2 = {
-	owner = SPA
-	controller = SPA
+	owner = Z31
+	controller = Z31
 	remove_core = SPC
 }

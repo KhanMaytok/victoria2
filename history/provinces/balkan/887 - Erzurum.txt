@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z86
+controller = Z86
 add_core = TUR
 add_core = ARM
 add_core = KDS

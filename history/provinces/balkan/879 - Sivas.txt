@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z78
+controller = Z78
 add_core = TUR
 add_core = ARM
 trade_goods = timber

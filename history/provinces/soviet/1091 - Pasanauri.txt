@@ -5,7 +5,7 @@ add_core = GEO
 trade_goods = wool
 life_rating = 35
 1913.1.1 = {
-owner = RUS
-controller = RUS
+owner = Z82
+controller = Z82
 add_core = RUS
 }

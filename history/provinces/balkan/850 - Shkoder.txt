@@ -1,5 +1,5 @@
-owner = TUR
-controller = TUR
+owner = Z50
+controller = Z50
 add_core = TUR
 add_core = ALB
 trade_goods = grain

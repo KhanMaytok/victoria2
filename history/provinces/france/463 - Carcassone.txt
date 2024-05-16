@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = Z65
+controller = Z65
 add_core = FRA
 trade_goods = fish
 life_rating = 31

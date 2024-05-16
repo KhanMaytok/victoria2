@@ -1,5 +1,5 @@
-owner = RUS
-controller = RUS
+owner = Z73
+controller = Z73
 add_core = LIT
 trade_goods = grain
 life_rating = 35

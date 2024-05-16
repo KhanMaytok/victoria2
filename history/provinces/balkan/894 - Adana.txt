@@ -4,8 +4,8 @@ add_core = TUR
 trade_goods = fish
 life_rating = 35
 1913.1.1 = {
-	owner = TUR
-	controller = TUR
+	owner = Z93
+	controller = Z93
 	colonial = 0
 	naval_base = 5
 }

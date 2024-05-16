@@ -4,8 +4,8 @@ add_core = KAZ
 trade_goods = wool
 life_rating = 25
 1913.1.1 = {
-	owner = RUS
-	controller = RUS
+	owner = Z79
+	controller = Z79
 	add_core = RUS
 	life_rating = 35
 }

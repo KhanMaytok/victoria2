@@ -4,7 +4,7 @@ add_core = TUR
 trade_goods = cattle
 life_rating = 35
 1913.1.1 = {
-owner = TUR
-controller = TUR
+owner = Z97
+controller = Z97
 colonial = 0
 }

@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = Z13
+controller = Z13
 add_core = ENG
 add_core = SCO
 trade_goods = fish

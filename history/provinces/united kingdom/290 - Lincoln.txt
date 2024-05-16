@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = Z37
+controller = Z37
 add_core = ENG
 trade_goods = iron
 naval_base = 2

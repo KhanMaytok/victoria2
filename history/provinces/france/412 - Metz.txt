@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = Z15
+controller = Z15
 add_core = FRA
 #add_core = GER
 trade_goods = iron
